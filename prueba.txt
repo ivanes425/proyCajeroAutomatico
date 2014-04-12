@@ -1,2 +1,0 @@
-hola mundo
-<h1>que es esto...</h1>
